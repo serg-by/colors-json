@@ -49,27 +49,27 @@
   },
   {
     "name": "Blue",
-    "subname": "colors.red",
+    "subname": "colors.blue",
     "value50": "50",
-    "hex50": "#FDF2F2",
+    "hex50": "#EBF5FF",
     "value100": "100",
-    "hex100": "#FDE8E8",
+    "hex100": "#E1EFFE",
     "value200": "200",
-    "hex200": "#FBD5D5",
+    "hex200": "#C3DDFD",
     "value300": "300",
-    "hex300": "#F8B4B4",
+    "hex300": "#A4CAFE",
     "value400": "400",
-    "hex400": "#F98080",
+    "hex400": "#76A9FA",
     "value500": "500",
-    "hex500": "#F05252",
+    "hex500": "#3F83F8",
     "value600": "600",
-    "hex600": " #E02424",
+    "hex600": "#1C64F2",
     "value700": "700",
-    "hex700": " #C81E1E",
+    "hex700": "#1A56DB",
     "value800": "800",
-    "hex800": " #9B1C1C",
+    "hex800": "#1E429F",
     "value900": "900",
-    "hex900": "#771D1D"    
+    "hex900": "#233876" 
   }
 ]
 
