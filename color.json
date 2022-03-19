@@ -71,7 +71,7 @@
     "value900": "900",
     "hex900": "#233876" 
   },
-   {
+  {
     "name": "Yellow",
     "subname": "colors.amber",
     "value50": "50",
@@ -94,6 +94,55 @@
     "hex800": "#723B13",
     "value900": "900",
     "hex900": "#633112"    
+  },
+  
+  {
+    "name": "Lime",
+    "subname": "colors.lime",
+    "value50": "50",
+    "hex50": "#f4fce3",
+    "value100": "100",
+    "hex100": "#e9fac8",
+    "value200": "200",
+    "hex200": "#d8f5a2 ",
+    "value300": "300",
+    "hex300": "#c0eb75 ",
+    "value400": "400",
+    "hex400": "#a9e34b ",
+    "value500": "500",
+    "hex500": "#94d82d ",
+    "value600": "600",
+    "hex600": " #82c91e",
+    "value700": "700",
+    "hex700": "#74b816 ",
+    "value800": "800",
+    "hex800": "#66a80f ",
+    "value900": "900",
+    "hex900": " #5c940d"    
+  },
+  {
+    "name": "Green",
+    "subname": "colors.emerald",
+    "value50": "50",
+    "hex50": "#F3FAF7",
+    "value100": "100",
+    "hex100": "#DEF7EC",
+    "value200": "200",
+    "hex200": "#BCF0DA ",
+    "value300": "300",
+    "hex300": "#84E1BC ",
+    "value400": "400",
+    "hex400": "#31C48D ",
+    "value500": "500",
+    "hex500": "#0E9F6E ",
+    "value600": "600",
+    "hex600": " #057A55",
+    "value700": "700",
+    "hex700": "#046C4E ",
+    "value800": "800",
+    "hex800": "#03543F ",
+    "value900": "900",
+    "hex900": " #014737"    
   }
 ]
 
